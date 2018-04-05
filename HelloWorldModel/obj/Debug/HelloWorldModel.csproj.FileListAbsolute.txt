@@ -1,0 +1,7 @@
+C:\Users\somu\source\repos\HelloWorldApp\HelloWorldModel\bin\Debug\HelloWorldModel.dll
+C:\Users\somu\source\repos\HelloWorldApp\HelloWorldModel\bin\Debug\HelloWorldModel.pdb
+C:\Users\somu\source\repos\HelloWorldApp\HelloWorldModel\obj\Debug\HelloWorldModel.csproj.CoreCompileInputs.cache
+C:\Users\somu\source\repos\HelloWorldApp\HelloWorldModel\obj\Debug\HelloWorldModel.dll
+C:\Users\somu\source\repos\HelloWorldApp\HelloWorldModel\obj\Debug\HelloWorldModel.pdb
+C:\Users\somu\source\repos\HelloWorldApp\HelloWorldModel\obj\Debug\HelloWorldModel.Properties.Resources.resources
+C:\Users\somu\source\repos\HelloWorldApp\HelloWorldModel\obj\Debug\HelloWorldModel.csproj.GenerateResource.cache
